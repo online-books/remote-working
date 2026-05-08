@@ -18,6 +18,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [我其实并不看好远程办公](https://mp.weixin.qq.com/s/IQcrj1PLlP3F1A9vuJv_8A)
 - [35岁失业后，我找到3份居家工作，我活成了自己想要的样子](https://mp.weixin.qq.com/s/9vMdjTzjC4vKhqjugAgnYg)
 - [宝妈居家办公实录：“补觉-熬夜”的死循环](https://mp.weixin.qq.com/s/kKWWpWXxkEsu-zB317w0hw)
 - [想拿远程offer，到底需要哪些核心能力？](https://mp.weixin.qq.com/s/c2QYtmPAqpVcPfIFY4vKGA)
@@ -27,7 +28,6 @@
 - [在家办公的我，如何与全职在家的公婆相处？](https://mp.weixin.qq.com/s/MESEVzPw9srWQPed1Qg9BA)
 - [不上班怎么跟爸妈解释？我试过最好用的3个话术](https://mp.weixin.qq.com/s/G_pXarqgfFrB_8AUCNKL0A)
 - [远程工作 vs 自由接单：两种方式都试过之后，区别在这里](https://mp.weixin.qq.com/s/GAWi_aKeq-9aOTZjWEAAeQ)
-- [INTERVIEW 28 | 上线仅一年，这款读书笔记工具被 App Store 推荐了 9 次：专访识墨笔记](https://mp.weixin.qq.com/s/pKU8zhZTGZeOKWtD7c2lJg)
 
 👉 [查看更多文章](posts)
 
