@@ -18,6 +18,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [远程办公的职业发展：如何在虚拟环境中晋升](https://mp.weixin.qq.com/s/hgqRaLtRa0h4HqJOH1z9RA)
 - [我其实并不看好远程办公](https://mp.weixin.qq.com/s/IQcrj1PLlP3F1A9vuJv_8A)
 - [35岁失业后，我找到3份居家工作，我活成了自己想要的样子](https://mp.weixin.qq.com/s/9vMdjTzjC4vKhqjugAgnYg)
 - [宝妈居家办公实录：“补觉-熬夜”的死循环](https://mp.weixin.qq.com/s/kKWWpWXxkEsu-zB317w0hw)
@@ -27,7 +28,6 @@
 - [团队协作的未来：远程工作下的有效管理策略](https://mp.weixin.qq.com/s/bFM5xxwMVW0P6xEV07Yrcg)
 - [在家办公的我，如何与全职在家的公婆相处？](https://mp.weixin.qq.com/s/MESEVzPw9srWQPed1Qg9BA)
 - [不上班怎么跟爸妈解释？我试过最好用的3个话术](https://mp.weixin.qq.com/s/G_pXarqgfFrB_8AUCNKL0A)
-- [远程工作 vs 自由接单：两种方式都试过之后，区别在这里](https://mp.weixin.qq.com/s/GAWi_aKeq-9aOTZjWEAAeQ)
 
 👉 [查看更多文章](posts)
 
