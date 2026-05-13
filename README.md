@@ -18,6 +18,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [我对远程工作的理解](https://mp.weixin.qq.com/s/TC-tL40xXSSZL_nmCqBOZQ)
 - [远程办公：你赚了还是亏了？](https://mp.weixin.qq.com/s/6FQUmikPdNUge8vpszdjuA)
 - [远程办公的职业发展：如何在虚拟环境中晋升](https://mp.weixin.qq.com/s/hgqRaLtRa0h4HqJOH1z9RA)
 - [我其实并不看好远程办公](https://mp.weixin.qq.com/s/IQcrj1PLlP3F1A9vuJv_8A)
@@ -27,7 +28,6 @@
 - [转型为远程工作前，你需要做好这些准备](https://mp.weixin.qq.com/s/LGr-3EZLIusKMv5V5ffPaQ)
 - [居家办公第5个月，我终于敢说“我习惯了”](https://mp.weixin.qq.com/s/BlPEOEBphKY9a4QzP-vwHA)
 - [团队协作的未来：远程工作下的有效管理策略](https://mp.weixin.qq.com/s/bFM5xxwMVW0P6xEV07Yrcg)
-- [在家办公的我，如何与全职在家的公婆相处？](https://mp.weixin.qq.com/s/MESEVzPw9srWQPed1Qg9BA)
 
 👉 [查看更多文章](posts)
 
