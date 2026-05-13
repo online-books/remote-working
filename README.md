@@ -18,6 +18,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [从“观望”到“投递”：我们应该如何拿下第一个远程兼职？](https://mp.weixin.qq.com/s/LqKlBJcG6Sa72KF3z7B72g)
 - [每个创业者都应该重新思考远程工作的真相](https://mp.weixin.qq.com/s/MIEFWmZkdQqcjZodS8HQbw)
 - [我对远程工作的理解](https://mp.weixin.qq.com/s/TC-tL40xXSSZL_nmCqBOZQ)
 - [远程办公：你赚了还是亏了？](https://mp.weixin.qq.com/s/6FQUmikPdNUge8vpszdjuA)
@@ -27,7 +28,6 @@
 - [宝妈居家办公实录：“补觉-熬夜”的死循环](https://mp.weixin.qq.com/s/kKWWpWXxkEsu-zB317w0hw)
 - [想拿远程offer，到底需要哪些核心能力？](https://mp.weixin.qq.com/s/c2QYtmPAqpVcPfIFY4vKGA)
 - [转型为远程工作前，你需要做好这些准备](https://mp.weixin.qq.com/s/LGr-3EZLIusKMv5V5ffPaQ)
-- [居家办公第5个月，我终于敢说“我习惯了”](https://mp.weixin.qq.com/s/BlPEOEBphKY9a4QzP-vwHA)
 
 👉 [查看更多文章](posts)
 
