@@ -1,17 +1,21 @@
-<h1 align="center">
-  <img src="./assets/logo.png" alt="Remote Working Logo" width="90">
-  <div>远程工作者</div>
-</h1>
+# 远程工作者
 
-- 本列表短网址：<https://anl.gg/remote>
-- 本列表主要用于整理中国国内的资源或者对国内受众友好的国外资源
-- 远程工作信息也会发布到以下渠道，可以自由选择惯用的渠道关注更新
-  - Telegram Channel - https://t.me/s/remote_cn
-  - 远程工作机会网站 - https://remote-china.com/
-  - 豆瓣小组 - https://www.douban.com/group/657287/
-  - 知识星球 - https://wx.zsxq.com/group/15528185251482
-  - 微信公众号 - [远程工作者](https://mp.weixin.qq.com/s/nueIQhSEONPzuTfw2PgJ2g)
-- 想要添加我的微信？[请看这里](https://github.com/greatghoul/remote-working/issues/340)
+> 远程工作者是一部 **中国远程工作资料大全**，致力于整理适合中国受众的文章、问答、音视频、远程团队和书籍等远程工作相关资源。
+
+<p align="left">
+  <a href="https://remote-china.com/"><img src="https://img.shields.io/badge/官方网站-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="官方网站"></a>
+  <a href="https://t.me/s/remote_cn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.douban.com/group/657287/"><img src="https://img.shields.io/badge/豆瓣小组-00B51D?style=for-the-badge&logo=douban&logoColor=white" alt="豆瓣"></a>
+  <a href="https://mp.weixin.qq.com/s/nueIQhSEONPzuTfw2PgJ2g"><img src="https://img.shields.io/badge/微信公众号-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信公众号"></a>
+  <a href="https://github.com/greatghoul/remote-working/issues/340"><img src="https://img.shields.io/badge/联系方式-FF6F00?style=for-the-badge&logo=maildotru&logoColor=white" alt="联系方式"></a>
+</p>
+
+<p align="left">
+  <a href="https://mp.weixin.qq.com/s/nueIQhSEONPzuTfw2PgJ2g">
+    <img src="./assets/wechat-banner.png" alt="关注微信公众号：远程工作者" width="300">
+  </a>
+</p>
+
 
 ## 📝 文章
 
